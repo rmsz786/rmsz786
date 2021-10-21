@@ -2,11 +2,11 @@
 
 ![Rao Muhammad Salman](https://media-exp1.licdn.com/dms/image/C5616AQGXESv_Lb3BUA/profile-displaybackgroundimage-shrink_350_1400/0/1564495303756?e=1640217600&v=beta&t=7VH08NXUWusraHOs5LH9j0YiWCxcOaKnmJBWo6EWxKg)
 
-<img src="https://img.shields.io/badge/about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
+## <img src="https://img.shields.io/badge/about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
 
 Experienced, resourceful and effective Software Development Engineer who like to accept challenges and grab opportunities out of the ability to face challenges and changing them into opportunities. Trying the new seemingly impossible tasks.and making them possible
 
-<img src="https://img.shields.io/badge/Objective-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Objective" />
+## <img src="https://img.shields.io/badge/Objective-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Objective" />
 
 To work in a professional environment with the quality of work through challenging, meaningful career growth, the opportunity for value addition and professional development where an individual can grow, participate and contribute
 
@@ -20,15 +20,11 @@ To work in a professional environment with the quality of work through challengi
 - Domain and Email Manipulation by configuring DNS, MX, and A-Records.
 - A hardworking, self-motivated individual with proven team-player skills.
 
----
-
 ## <img src="https://img.shields.io/badge/Currently on going project-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently on going project" />
 
 ### nubyla
 
 - Description section
-
----
 
 ## <img src="https://img.shields.io/badge/Accomplishments-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently Working On" />
 
@@ -63,15 +59,11 @@ To work in a professional environment with the quality of work through challengi
 
   This application handled accounting, billing, and invoicing functionalities all from a centralized system. Its userfriendly interface is home to a powerful set of features which include invoicing, accounts payable, reporting, inventory, contacts, and sales.
 
----
-
 ## <img src="https://img.shields.io/badge/Professional Experience-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Experience" />
 
 - Senior Software Engineer: [nybl.](https://www.nybl.ai/)
 - Senior Software Development Engineer: [Maavan](https://maavan.com/)
 - Software Developer: Royal Soft
-
----
 
 <!-- ## <img src="https://img.shields.io/badge/💰 Funding-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Funding" />
 
@@ -84,16 +76,10 @@ To work in a professional environment with the quality of work through challengi
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rmsz786//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fahad-ashiq-303/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackexchange.com/users/12114647/fahad-ashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackexchange.com/users/12114647/fahad-ashiq" height="30" width="40" /></a>
 
----
-
 ## <img src="https://img.shields.io/badge/GitHub Profile Trophy-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="GitHub Profile Trophy" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rmsz786)](https://github.com/rmsz786/github-profile-trophy)
 
----
-
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrdanishsaleem.rmsz786)
-
----
