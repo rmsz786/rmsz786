@@ -26,7 +26,8 @@ To work in a professional environment with the quality of work through challengi
 
 - Description section
 
-## <img src="https://img.shields.io/badge/Accomplishments-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently Working On" />
+<div>
+<img src="https://img.shields.io/badge/Accomplishments-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently Working On" />
 
 ### Playsy
 
@@ -58,6 +59,8 @@ To work in a professional environment with the quality of work through challengi
 - **Built-in:** PHP, HTML, JS, and MySQL.
 
   This application handled accounting, billing, and invoicing functionalities all from a centralized system. Its userfriendly interface is home to a powerful set of features which include invoicing, accounts payable, reporting, inventory, contacts, and sales.
+
+</diV>
 
 ## <img src="https://img.shields.io/badge/Professional Experience-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Experience" />
 
