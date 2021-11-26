@@ -32,16 +32,12 @@ To work in a professional environment with the quality of work through challengi
 
 ### nubyla
 
-- Description section
+ _nubyla is an online tool that allows you to build your own Machine Learning (ML) models. All you need are your datasets and the questions you need answers for. nubyla takes you through an easy step by step procedure to reach the intelligence you need from your data. For example, trying to predict the future demand for a product. And the best part? nubyla allows you to build that intelligence without you writing a single line of code.
 
 ---
 
 <img src="https://img.shields.io/badge/Accomplishments-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently Working On" />
 
-
-### nubyla
-
- _nubyla is an online tool that allows you to build your own Machine Learning (ML) models. All you need are your datasets and the questions you need answers for. nubyla takes you through an easy step by step procedure to reach the intelligence you need from your data. For example, trying to predict the future demand for a product. And the best part? nubyla allows you to build that intelligence without you writing a single line of code.
 
 ### Smart Inventory Management
 
