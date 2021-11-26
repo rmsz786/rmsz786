@@ -38,36 +38,34 @@ To work in a professional environment with the quality of work through challengi
 
 <img src="https://img.shields.io/badge/Accomplishments-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently Working On" />
 
+
+### nubyla
+
+ _nubyla is an online tool that allows you to build your own Machine Learning (ML) models. All you need are your datasets and the questions you need answers for. nubyla takes you through an easy step by step procedure to reach the intelligence you need from your data. For example, trying to predict the future demand for a product. And the best part? nubyla allows you to build that intelligence without you writing a single line of code.
+
+### Smart Inventory Management
+
+ _Smart Inventory application in collaboration with the Dubai Health Authority(DHA). The aim of the upgrade is to enhance its current inventory management system and render them paperless and more efficient, all the while utilising advanced technologies and smart solutions to save time.
+
 ### Playsy
 
-- **Built-in:** React Js, React-Redux, MongoDB and Graphql.
-
-  _“The Playsy Experience”_ consists of two parts; the real-world, the Playsy town and the digital world, the virtual Playsy app. Both are designed to encourage and enhance children’s exploration of the real world. Working together the two worlds are linked through the meta-learning system.
+  _“The Playsy Experience” consists of two parts; the real-world, the Playsy town and the digital world, the virtual Playsy app. Both are designed to encourage and enhance children’s exploration of the real world. Working together the two worlds are linked through the meta-learning system.
 
 ### MetaKid
 
-- **Built-in:** React Js, React-Redux, and MongoDB.
-
-  A platform for parents to provide their children with dual reality experiences to enhance their children’s creativity, problem exploring and social skills while monitoring their progress.
+ _A platform for parents to provide their children with dual reality experiences to enhance their children’s creativity, problem exploring, and social skills while monitoring their progress.
 
 ### Buy Miles & Mileage Spot
 
-- **Built-in:** PHP, Yii 2.0, JS and with MongoDB.
-
-  A web application built in Yii 2.0 with module-based architecture for both front-end and back-end where miles accounts of different airlines are being bought from MileageSpot paid by PayPal and sold to the different sales agents. Invoices and payments are managed by Freshbooks. And History is being managed. Also has sales import feature from CSV.
+ _A web application designed in Yii 2.0 with a module-based architecture for both the front-end and back-end, in which miles accounts from various airlines are purchased through MileageSpot and sold to various sales agents via PayPal. Freshbooks is in charge of invoicing and payments. In addition, history is being manipulated. It also offers a CSV import feature for sales.
 
 ### Patient Advertising Guru
 
-- **Frontend Built-in:** PHP, Wordpress, HTML, CSS, JS, and MySQL.
-- **Backend Built-in:** PHP, Yii, HTML, CSS, JS, with MySQL, and DialogTech API.
-
-  A web application built in Yii 2.0 with module-based architecture for both front-end and back-end where miles accounts of different airlines are being bought from MileageSpot paid by PayPal and sold to the different sales agents. Invoices and payments are managed by Freshbooks. And History is being managed. Also has sales import feature from CSV.
+ _This is the application that connects clients with various medical disease researchers. Each study/site has multiple frontends and voicemail numbers, all tied to a single backend. All web submissions and voicemails are saved in a backend with an API that researchers can access. For this project, we employed a RESTful API structure.
 
 ### Accounts Web Application
 
-- **Built-in:** PHP, HTML, JS, and MySQL.
-
-  This application handled accounting, billing, and invoicing functionalities all from a centralized system. Its userfriendly interface is home to a powerful set of features which include invoicing, accounts payable, reporting, inventory, contacts, and sales.
+ _This application managed the full flow of sales, procurement, inventories, and expenses with all notifications from a centralised system. Some of the features provided through its user-friendly interface include chart of accounts, invoicing, and reporting.
 
 ---
 
