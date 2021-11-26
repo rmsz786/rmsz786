@@ -80,9 +80,7 @@ To work in a professional environment with the quality of work through challengi
 
 <img src="https://img.shields.io/badge/Follow Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Follow Me" />
 
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamfahadashiq" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rmsz786//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fahad-ashiq-303/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackexchange.com/users/12114647/fahad-ashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="https://stackexchange.com/users/12114647/fahad-ashiq" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rmsz786/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rao Muhammad Salman/" height="30" width="40" /></a>
 
 ---
 
