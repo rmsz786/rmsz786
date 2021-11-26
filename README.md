@@ -86,12 +86,6 @@ To work in a professional environment with the quality of work through challengi
 
 ---
 
-<img src="https://img.shields.io/badge/GitHub Profile Trophy-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="GitHub Profile Trophy" />
-
-## [![trophy](https://github-profile-trophy.vercel.app/?username=rmsz786)](https://github.com/rmsz786/github-profile-trophy)
-
----
-
 #### Profile Visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=mrdanishsaleem.rmsz786)
