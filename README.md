@@ -1,4 +1,4 @@
-<h1 align="left">Welcome 👋</h1>
+# Welcome 👋
 
 <img src="https://media-exp2.licdn.com/dms/image/C4D16AQFbWno8QEDCgw/profile-displaybackgroundimage-shrink_350_1400/0/1650882101715?e=1660780800&v=beta&t=P3Khpc8MnbLZrDLi5GAQu_weo__Kmcy-h1Wh92OyDrQ" align="center" />
 
