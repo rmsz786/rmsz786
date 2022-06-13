@@ -32,36 +32,35 @@ To work in a professional environment with the quality of work through challengi
 
 ### nubyla
 
- _nubyla is an online tool that allows you to build your own Machine Learning (ML) models. All you need are your datasets and the questions you need answers for. nubyla takes you through an easy step by step procedure to reach the intelligence you need from your data. For example, trying to predict the future demand for a product. And the best part? nubyla allows you to build that intelligence without you writing a single line of code.
+\_nubyla is an online tool that allows you to build your own Machine Learning (ML) models. All you need are your datasets and the questions you need answers for. nubyla takes you through an easy step by step procedure to reach the intelligence you need from your data. For example, trying to predict the future demand for a product. And the best part? nubyla allows you to build that intelligence without you writing a single line of code.
 
 ---
 
 <img src="https://img.shields.io/badge/Accomplishments-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Currently Working On" />
 
-
 ### Smart Inventory Management
 
- _Smart Inventory application in collaboration with the Dubai Health Authority(DHA). The aim of the upgrade is to enhance its current inventory management system and render them paperless and more efficient, all the while utilising advanced technologies and smart solutions to save time.
+\_Smart Inventory application in collaboration with the Dubai Health Authority(DHA). The aim of the upgrade is to enhance its current inventory management system and render them paperless and more efficient, all the while utilising advanced technologies and smart solutions to save time.
 
 ### Playsy
 
-  _“The Playsy Experience” consists of two parts; the real-world, the Playsy town and the digital world, the virtual Playsy app. Both are designed to encourage and enhance children’s exploration of the real world. Working together the two worlds are linked through the meta-learning system.
+\_“The Playsy Experience” consists of two parts; the real-world, the Playsy town and the digital world, the virtual Playsy app. Both are designed to encourage and enhance children’s exploration of the real world. Working together the two worlds are linked through the meta-learning system.
 
 ### MetaKid
 
- _A platform for parents to provide their children with dual reality experiences to enhance their children’s creativity, problem exploring, and social skills while monitoring their progress.
+\_A platform for parents to provide their children with dual reality experiences to enhance their children’s creativity, problem exploring, and social skills while monitoring their progress.
 
 ### Buy Miles & Mileage Spot
 
- _A web application designed in Yii 2.0 with a module-based architecture for both the front-end and back-end, in which miles accounts from various airlines are purchased through MileageSpot and sold to various sales agents via PayPal. Freshbooks is in charge of invoicing and payments. In addition, history is being manipulated. It also offers a CSV import feature for sales.
+\_A web application designed in Yii 2.0 with a module-based architecture for both the front-end and back-end, in which miles accounts from various airlines are purchased through MileageSpot and sold to various sales agents via PayPal. Freshbooks is in charge of invoicing and payments. In addition, history is being manipulated. It also offers a CSV import feature for sales.
 
 ### Patient Advertising Guru
 
- _This is the application that connects clients with various medical disease researchers. Each study/site has multiple frontends and voicemail numbers, all tied to a single backend. All web submissions and voicemails are saved in a backend with an API that researchers can access. For this project, we employed a RESTful API structure.
+\_This is the application that connects clients with various medical disease researchers. Each study/site has multiple frontends and voicemail numbers, all tied to a single backend. All web submissions and voicemails are saved in a backend with an API that researchers can access. For this project, we employed a RESTful API structure.
 
 ### Accounts Web Application
 
- _This application managed the full flow of sales, procurement, inventories, and expenses with all notifications from a centralised system. Some of the features provided through its user-friendly interface include chart of accounts, invoicing, and reporting.
+\_This application managed the full flow of sales, procurement, inventories, and expenses with all notifications from a centralised system. Some of the features provided through its user-friendly interface include chart of accounts, invoicing, and reporting.
 
 ---
 
