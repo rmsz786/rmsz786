@@ -9,7 +9,7 @@ Seasoned Web Developer offering extensive experience in front-end and back-end t
 
 <img src="https://img.shields.io/badge/Skills & Abilities-black.svg?&style=for-the-badge&logo=Skills & Abilities&logoColor=white" alt="Skills" />
 
-- Full Stack Web Application Developer with more than 3 years of hands-on experience
+- Full Stack Web Application Developer with more than 8 years of hands-on experience
 - Hands-on experience in several back-end technologies such as Core PHP, Yii, CodeIgniter and WordPress customized theme development.
 - Well-versed in JS Front-end technologies such as JavaScript, jQuery, Reactjs, ReactJs Redux, GraphQL.
 - Good understanding of NoSQL Databases such as MongoDB and other relational Databases (MySQL).
