@@ -66,7 +66,7 @@ To work in a professional environment with the quality of work through challengi
 
 <img src="https://img.shields.io/badge/Professional Experience-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Experience" />
 
-- Senior Software Engineer: [nybl.](https://www.nybl.ai/)
+
 - Senior Software Development Engineer: [Maavan](https://maavan.com/)
 - Software Developer: Royal Soft
 
@@ -74,15 +74,3 @@ To work in a professional environment with the quality of work through challengi
 
 [<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Github-sponsors" />](https://www.buymeacoffee.com/mrdanishsaleem)
 [<img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="BuyMeACoffee" />](https://www.buymeacoffee.com/mrdanishsaleem) -->
-
----
-
-<img src="https://img.shields.io/badge/Follow Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Follow Me" />
-
-<a href="https://www.linkedin.com/in/rmsz786/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Rao Muhammad Salman/" height="30" width="40" /></a>
-
----
-
-#### Profile Visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mrdanishsaleem.rmsz786)
