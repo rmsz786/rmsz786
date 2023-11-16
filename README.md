@@ -1,8 +1,5 @@
 # Welcome 👋
 
-<img src="https://media.licdn.com/dms/image/C4D16AQFbWno8QEDCgw/profile-displaybackgroundimage-shrink_350_1400/0/1650882101715?e=1672876800&v=beta&t=DgoEcoOZPDbWF1zLB2JTzHVnpcxfcahf_80K_zYEVkE" align="center" />
-
----
 
 <img src="https://img.shields.io/badge/about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
 
