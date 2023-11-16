@@ -61,12 +61,6 @@ To work in a professional environment with the quality of work through challengi
 
 ---
 
-<img src="https://img.shields.io/badge/Professional Experience-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Experience" />
-
-
-- Senior Software Development Engineer: [Maavan](https://maavan.com/)
-- Software Developer: Royal Soft
-
 <!-- ## <img src="https://img.shields.io/badge/💰 Funding-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Funding" />
 
 [<img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="Github-sponsors" />](https://www.buymeacoffee.com/mrdanishsaleem)
