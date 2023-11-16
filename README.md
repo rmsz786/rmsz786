@@ -3,13 +3,7 @@
 
 <img src="https://img.shields.io/badge/about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
 
-Experienced, resourceful and effective Software Development Engineer who like to accept challenges and grab opportunities out of the ability to face challenges and changing them into opportunities. Trying the new seemingly impossible tasks.and making them possible
-
----
-
-<img src="https://img.shields.io/badge/Objective-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="Objective" />
-
-To work in a professional environment with the quality of work through challenging, meaningful career growth, the opportunity for value addition and professional development where an individual can grow, participate and contribute
+Seasoned Web Developer offering extensive experience in front-end and back-end technologies, aiming to collaborate with clients and businesses to create innovative and user-centric websites and applications. Expertise in Web Development, with a strong focus on delivering responsive, efficient, and aesthetically appealing web solutions. Dedicated to understanding client objectives and translating them into digital realities, while ensuring optimal functionality and user experience in every project.
 
 ---
 
